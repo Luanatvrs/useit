@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/useit/static/css/main.8d5a6ddc.css",
-    "main.js": "/useit/static/js/main.8dcbb8e6.js",
+    "main.js": "/useit/static/js/main.3890643f.js",
     "static/js/787.ef6e2f6a.chunk.js": "/useit/static/js/787.ef6e2f6a.chunk.js",
     "static/media/UseIt.pptx": "/useit/static/media/UseIt.5b0f53b7a2ca2e24fca4.pptx",
     "static/media/Useitnegocio.pptx": "/useit/static/media/Useitnegocio.92b62a68c29a60ab4ef3.pptx",
@@ -12,11 +12,11 @@
     "static/media/Ellipse2.svg": "/useit/static/media/Ellipse2.3dcb99242b343083bca61821f9a33c35.svg",
     "static/media/Ellipse1.svg": "/useit/static/media/Ellipse1.52d431570561a2c514ff854ba0d5859c.svg",
     "main.8d5a6ddc.css.map": "/useit/static/css/main.8d5a6ddc.css.map",
-    "main.8dcbb8e6.js.map": "/useit/static/js/main.8dcbb8e6.js.map",
+    "main.3890643f.js.map": "/useit/static/js/main.3890643f.js.map",
     "787.ef6e2f6a.chunk.js.map": "/useit/static/js/787.ef6e2f6a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8d5a6ddc.css",
-    "static/js/main.8dcbb8e6.js"
+    "static/js/main.3890643f.js"
   ]
 }
