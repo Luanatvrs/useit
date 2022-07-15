@@ -7,8 +7,8 @@ function App() {
     <>
      <Routes>
 
-      <Route index path='/' element={<LandingPage/>}/>
-      <Route path= '/sobrenos' element={<AboutUs/>}/>
+      <Route index path='/useit' element={<LandingPage/>}/>
+      <Route path= '/useit/sobrenos' element={<AboutUs/>}/>
       </Routes>
       </>
   );
