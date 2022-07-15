@@ -1,20 +1,22 @@
 {
   "files": {
-    "main.css": "/useit/static/css/main.421ca866.css",
-    "main.js": "/useit/static/js/main.c1956f64.js",
+    "main.css": "/useit/static/css/main.8d5a6ddc.css",
+    "main.js": "/useit/static/js/main.23da3bdb.js",
     "static/js/787.ef6e2f6a.chunk.js": "/useit/static/js/787.ef6e2f6a.chunk.js",
+    "static/media/UseIt.pptx": "/useit/static/media/UseIt.5b0f53b7a2ca2e24fca4.pptx",
+    "static/media/Useitnegocio.pptx": "/useit/static/media/Useitnegocio.92b62a68c29a60ab4ef3.pptx",
     "static/media/civil.png": "/useit/static/media/civil.648d1b6d31ff969a1be1.png",
+    "static/media/mega-creator.png": "/useit/static/media/mega-creator.bd08ee66820c8ef2d97d.png",
     "static/media/UseitLogo.svg": "/useit/static/media/UseitLogo.47de8ee9d87eb2bfa88eea14272c2289.svg",
-    "static/media/logo.svg": "/useit/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/useit/index.html",
     "static/media/Ellipse2.svg": "/useit/static/media/Ellipse2.3dcb99242b343083bca61821f9a33c35.svg",
     "static/media/Ellipse1.svg": "/useit/static/media/Ellipse1.52d431570561a2c514ff854ba0d5859c.svg",
-    "main.421ca866.css.map": "/useit/static/css/main.421ca866.css.map",
-    "main.c1956f64.js.map": "/useit/static/js/main.c1956f64.js.map",
+    "main.8d5a6ddc.css.map": "/useit/static/css/main.8d5a6ddc.css.map",
+    "main.23da3bdb.js.map": "/useit/static/js/main.23da3bdb.js.map",
     "787.ef6e2f6a.chunk.js.map": "/useit/static/js/787.ef6e2f6a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.421ca866.css",
-    "static/js/main.c1956f64.js"
+    "static/css/main.8d5a6ddc.css",
+    "static/js/main.23da3bdb.js"
   ]
 }
