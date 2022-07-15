@@ -16,7 +16,7 @@ const NavbarPage = () => {
     <>
       <Box>
         <Logo>
-            <a href="/">
+            <a href="/useit">
                 <img src={UseitLogo}
                 />
             </a>
