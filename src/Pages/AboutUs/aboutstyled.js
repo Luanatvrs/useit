@@ -82,7 +82,7 @@ export const ButtonAcsess = styled.button `
    height: 15%;
    border-radius: 35px;
    background: #130A1D;
-
+   margin-right:20px;
    a{
     color: #fff;
 

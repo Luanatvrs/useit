@@ -16,6 +16,9 @@ import {FcInTransit} from "react-icons/fc";
 import { Navigate, Route, useNavigate } from "react-router-dom";
 import image from '../../assets/img/mega-creator.png'
 import  {DivImage, DivUl,DivLinks, Containerr, ButtonAcsess} from './aboutstyled.js'
+import useittec from '../../UseIt.pptx'
+import useitemp from '../../Useitnegocio.pptx'
+
 
 const AboutUs = () => {
 
@@ -40,17 +43,22 @@ const AboutUs = () => {
           <DivLinks>
              <div>
                 <h2>Slides da apresentação da empresa</h2>
-                <h3 style={{fontSize:'18px', marginTop: '5em'}}>Acesse os slides sobre o nosso projeto desenvolvido durante a disciplina.</h3>
+                <h3 style={{fontSize:'18px', marginTop: '5em'}}>Baixe os slides sobre o nosso projeto desenvolvido durante a disciplina.</h3>
              </div>           
-       <div style={{marginTop: '5em', alignItems:'center', justifyContent:"center", height:'100%'}}>
+       <div style={{marginTop: '5em', alignItems:'center',justifyContent:"center", height:'100%'}}>
            <ButtonAcsess>
-            <a href="https://drive.google.com/drive/folders/1mfpb3tJPmEZCqTC_dC3X9S1klf-2FH3h?usp=sharing%27">Acessar</a>
+            <a download={"Useittec"} href={useittec}>Slide técnico</a>
+            </ButtonAcsess>
+            <ButtonAcsess>
+            <a download={""} href={useitemp}>Slide empresarial</a>
             </ButtonAcsess>
        </div>
+
           </DivLinks>
 
         </Containerr>
         <DivUl>
+            <input></input>
    
    <div style={{marginBottom: '3em'}}>
        <h2>
