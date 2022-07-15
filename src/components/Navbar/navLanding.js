@@ -24,7 +24,7 @@ const NavbarPage = () => {
          <SidebarNav/>
           <Menu>
               <Item><a href="/Serviços">Serviços</a></Item>
-              <Item><a href="/sobrenos">Sobre nós</a></Item>
+              <Item><a href="useit/sobrenos">Sobre nós</a></Item>
               <Item><a href="/contatos">Contatos</a></Item>
           </Menu>
             <Login>Entrar</Login>
