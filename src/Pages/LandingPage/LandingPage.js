@@ -10,10 +10,10 @@ import style,{
     Valuediv
 
 } from './StyledLandingPage';
-import Navbar from '../components/Navbar/navLanding';
-import CivilImage from '../assets/img/civil.png'
+import Navbar from '../../components/Navbar/navLanding';
+import CivilImage from '../../assets/img/civil.png'
 import {FcInTransit} from "react-icons/fc";
-import { useNavigate } from "react-router-dom";
+import { Route, useNavigate } from "react-router-dom";
 
 function LandingPage () {
     const navigate = useNavigate();
@@ -24,7 +24,6 @@ function LandingPage () {
  return(
 
     <>
-    
         <Container>
           <Navbar/>
           <Main>

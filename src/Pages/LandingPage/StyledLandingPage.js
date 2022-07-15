@@ -1,7 +1,7 @@
 import styled from "styled-components";
 import {Card, CardGroup} from 'reactstrap';
-import Bkground1 from '../assets/img/Ellipse1.svg';
-import Bkground2 from '../assets/img/Ellipse2.svg';
+import Bkground1 from '../../assets/img/Ellipse1.svg';
+import Bkground2 from '../../assets/img/Ellipse2.svg';
 
 export const Body = styled.div `
     background-color: #FAF8FF;

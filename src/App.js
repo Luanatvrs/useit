@@ -1,14 +1,16 @@
-import LandingPage from './LandingPage/LandingPage';
-import {BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import LandingPage from './Pages/LandingPage/LandingPage';
+import { Routes, Route ,HashRouter} from 'react-router-dom';
+import AboutUs from './Pages/AboutUs/AboutUs';
 
 function App() {
   return (
+    <>
      <Routes>
 
-      <Route path='/' element={<LandingPage/>}/>
-
+      <Route index path='/' element={<LandingPage/>}/>
+      <Route path={'/sobrenos'} element={<AboutUs/>}/>
       </Routes>
-
+      </>
   );
 }
 
